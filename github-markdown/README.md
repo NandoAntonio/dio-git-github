@@ -8,5 +8,8 @@ O objetivo do desafio foi praticar comandos básicos do Git e coloborar com outr
 ### 💻 Tecnlogias e Conceitos
 - **Ferramentas:** Git e GitHub para versionamento de código e colaboração em equipe
 
+### 🤝 Colaborando no Github
+Alterando o README para marcar a colaboração no Github entre NandoAntonio e Nandozzz26
+
 ---
 Desenvolvido por NandoAntonio
