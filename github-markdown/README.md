@@ -8,5 +8,7 @@ O objetivo do desafio foi praticar comandos básicos do Git e coloborar com outr
 ### 💻 Tecnlogias e Conceitos
 - **Ferramentas:** Git e GitHub para versionamento de código e colaboração em equipe
 
+### 🤝 Trecho editado pelo colaborador Nandozzz26
+Alterado para marcar a colaboração em um projeto, utilizando os comandos básicos de Git e realizando Pull Request 
 ---
 Desenvolvido por NandoAntonio
