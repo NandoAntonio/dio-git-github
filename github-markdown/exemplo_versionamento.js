@@ -14,7 +14,7 @@ function soma(numA, numB){
 
 console.log("") // Pular linha
 
-let userName = getFirstName("Camila-Reis-Correa", "-") //Com o splitChar na chamada da funcao passar o valor que vai separar as strings
+let userName = getFirstName("Fernando-Antonio-Costa", "-") //Com o splitChar na chamada da funcao passar o valor que vai separar as strings
 console.log(`Seja Bem-vindo ao meu estabelecimento: ${userName}`)
 
 userName = getFirstName("Fernando da Costa Antonio", " ")
