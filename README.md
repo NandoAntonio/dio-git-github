@@ -6,7 +6,7 @@ Este espaço funciona como o meu laboratório pessoal. Aqui eu coloco em prátic
 
 ## 🎯 O Objetivo Deste Repositório
 
-Esse é o meu repositórrio que apresenta a minha jornada de estudo. O foco principal é:
+Esse é o repositório que apresenta a minha jornada de estudo. O foco principal é:
 
 *   **Dominar o Workflow do Git:** Praticar comandos, gerenciar **branches**, resolver conflitos e entender o fluxo completo de versionamento.
 *   **Boas Práticas no GitHub:** Aperfeiçoar a criação de **Pull Requests** detalhados, abrir e gerenciar **Issues**, e documentar projetos de forma profissional.
