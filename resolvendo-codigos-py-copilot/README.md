@@ -11,7 +11,7 @@ O objetivo do desafio foi utiliziar de Inteligência Arificial para auxiliar no 
 - `repet_txt.py`: Exercício de repetição de strings usando condições.
 - `par_impar.py`: Algoritmo que realiza a verificação se um número é par ou ímpar
 - `media.py`: Algoritmo que calcula a média de notas
-- `palindromos`: Exercício que verifica se uma palavra é um palíndromo
+- `palindromos.py`: Exercício que verifica se uma palavra é um palíndromo
 
 ### 💻 Tecnologias e Conceitos
 - **Linguagens:** Python
