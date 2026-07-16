@@ -7,8 +7,11 @@ O objetivo do desafio foi utiliziar de Inteligência Arificial para auxiliar no 
 
 ## 📝 Exercícios Desenvolvidos
 - `concat_dados.py`: Algoritmo básico para manipulação de strings;
-- `ope_mat.py`: Exercício de operações matemáticas básicas e intermediárias.
+- `ope_mat.py`: Exercício de operações matemáticas simples.
 - `repet_txt.py`: Exercício de repetição de strings usando condições.
+- `par_impar.py`: Algoritmo que realiza a verificação se um número é par ou ímpar
+- `media.py`: Algoritmo que calcula a média de notas
+- `palindromos`: Exercício que verifica se uma palavra é um palíndromo
 
 ### 💻 Tecnologias e Conceitos
 - **Linguagens:** Python
