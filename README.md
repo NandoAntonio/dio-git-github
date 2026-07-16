@@ -1,4 +1,4 @@
-# 👋 Repositório de Estudos e Práticas de Desenvolvimento em Git e GitHub:
+# Repositório de Estudos e Práticas de Desenvolvimento em Git e GitHub:
 
 Bem-vindo(a) ao meu repositório central de aprendizado!
 
